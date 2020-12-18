@@ -18,6 +18,8 @@
 <br />Hi! I am Kumar Ankit, a **Computer Science and Engineering** sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
 I am a Competitive Programmer and Android Developer.
 
-![Nitish's Github stats](https://github-readme-stats.vercel.app/api?username=nks102000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br \>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks102000&theme=tokyonight)](https://github.com/Masters-Akt/github-readme-stats)<br \>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=nks102000.nks102000)<br \>
+![Nitish's Github stats](https://github-readme-stats.vercel.app/api?username=nks102000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks102000&theme=tokyonight)](https://github.com/Masters-Akt/github-readme-stats)<br>
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=nks102000.nks102000)
