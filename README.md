@@ -18,15 +18,6 @@
 <br />Hi! I am Kumar Ankit, a **Computer Science and Engineering** sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
 I am a Competitive Programmer and Android Developer.
 
-![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=nks102000&hide=contribs,prs])
-![Nitish's Github stats](https://github-readme-stats.vercel.app/api?username=nks102000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<!--
-**nks102000/nks102000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🌱 I’m currently learning Android Developement
-👯 I’m looking to collaborate on Front End Android Developemint
-- 🤔 I’m looking for help with ...
-- [![alt text](https://github.com/nks102000/nks102000/blob/main/Linkedin.png "Linkedin")]("https://www.linkedin.com/in/nitish-kumar-sonthalia-4713a8193/")
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nitish's Github stats](https://github-readme-stats.vercel.app/api?username=nks102000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks102000&theme=tokyonight)](https://github.com/Masters-Akt/github-readme-stats)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=nks102000.nks102000)
