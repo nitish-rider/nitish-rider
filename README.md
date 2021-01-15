@@ -22,4 +22,10 @@ I am a Competitive Programmer and Android Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks102000&theme=tokyonight)](https://github.com/nks102000/github-readme-stats)<br>
 
+![Github Metrics](https://metrics.lecoq.io/nks102000)
+
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nks102000&theme=tokyonight)
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=nks102000)
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=nks102000.nks102000)
