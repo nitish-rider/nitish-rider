@@ -30,7 +30,7 @@ I am a Competitive Programmer and Android Developer.
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
+<br><br>
 
 
 ![Nitish's Github stats](https://github-readme-stats.vercel.app/api?username=nks102000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br><br>
