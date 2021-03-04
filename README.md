@@ -15,12 +15,11 @@
   <img align="left" alt="Akt's Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<br />Hi! I am Nitish Kumar Sonthalia, a **Computer Science and Engineering** sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
+<br />Hi! I am Nitish Kumar Sonthalia, a *Computer Science and Engineering* sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
 I am a Competitive Programmer and Android Developer.
+<!---
 <br>
 <br>
-
-
 <div class="row">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,6 +29,9 @@ I am a Competitive Programmer and Android Developer.
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+----!>
+
+
 <br><br>
 
 
