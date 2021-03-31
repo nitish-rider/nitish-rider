@@ -36,10 +36,10 @@ I am a Competitive Programmer and Android Developer.
 
 
 ![Nitish's Github stats](https://github-readme-stats.vercel.app/api?username=nks102000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br><br>
-
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks102000&theme=tokyonight)](https://github.com/nks102000/github-readme-stats)<br><br>
-
 ![Github Metrics](https://metrics.lecoq.io/nks102000)
+---!>
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nks102000&theme=tokyonight)
 
