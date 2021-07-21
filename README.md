@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a herf="https://github.com/nks102000">Nitish Kumar Sonthalia(nks102000)</a>
+### Hi there 👋 I'm <a herf="https://github.com/nks102000">Nitish Kumar Sonthalia</a>
 <a href="https://www.linkedin.com/in/nitish-kumar-sonthalia-4713a8193/">
   <img align="left" alt="Nitish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
