@@ -15,7 +15,7 @@
   <img align="left" alt="Akt's Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<br />Hi! I am Nitish Kumar Sonthalia, a *Computer Science and Engineering* 3rd yr student at <a href ="http://kiit.ac.in/">KIIT University</a>
+<br />Hi! I am Nitish Kumar Sonthalia, a *Computer Science and Engineering* 4th yr student at <a href ="http://kiit.ac.in/">KIIT University</a>
 I am a Competitive Programmer and Android Developer.
 <!---
 <br>
